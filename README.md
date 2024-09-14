@@ -2,7 +2,7 @@
 
 ### Description
 
-Does just as it says. Track your daily expenses with ease using this expense tracker app. This repository contains frontend code for the mern-expense-tracker app. You can checkout the backend code in [this repo](https://github.com/01-DC/mern-expense-tracker-server)
+Does just as it says. Track your daily expenses with ease using this expense tracker app. This repository contains frontend code for the mern-expense-tracker app. You can checkout the backend code in [this repo](https://github.com/hrkoo7/expense_server)
 
 ### How to use?
 
@@ -31,11 +31,4 @@ Does just as it says. Track your daily expenses with ease using this expense tra
 -   `axios` : Used Axios library to make API calls to backend simpler and fast.
 -   `vite` : Used Vite as the build tool. Much faster and developer friendly.
 
-### Screenshots
 
-<img src="./screenshots/Screenshot7.png" width="600" />
-<img src="./screenshots/Screenshot8.png" width="600" />
-<img src="./screenshots/Screenshot9.png" width="600" />
-<img src="./screenshots/Screenshot10.png" width="600" />
-<img src="./screenshots/Screenshot11.png" width="600" />
-<img src="./screenshots/Screenshot12.png" width="600" />
